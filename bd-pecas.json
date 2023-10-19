@@ -1,5 +1,24 @@
 [
   {
+    "categoria": "FÓSSIL DE TRILOBITA",
+    "pastaCategoria": "TRILOBITA",
+    "descricaoCategoria": "Tri tri",
+    "items": [
+      {
+        "id": 1,
+        "fotoCapa": "FOTOS\\TRILOBITA\\1\\acervo (1).jpg",
+        "nomePeca": "Fóssil de trilobita",
+        "descricao": "Artrópode pré-histórico da Era Paleonzóica, conhecido apenas do registro fóssil. O nome trilobita é devido a presença de três lobos que podem ser visualizados (na maior parte dos casos) em sua região dorsal (um central e dois laterais). Animais marinhos bentônicos, viviam, em sua maioria, em zonas pouco profundas, perto da costa. O maior trilobita encontrado até hoje possuía cerca de um metro de comprimento.", 
+        "reino": "Animalia",
+        "filo": "Arthropoda",
+        "subFilo": "Echinozoa",
+        "classe": "Trilobite",
+        "subClasse": "Trilobitomorpha",
+        "qtdFotos": 1
+      }
+    ]
+  },
+  {
     "categoria": "AVES",
     "pastaCategoria": "AVES",
     "descricaoCategoria": "Aqui o texto da caregoria aves",
@@ -461,20 +480,121 @@
     ]
   },
   {
-    "categoria": "FÓSSIL DE TRILOBITA",
-    "pastaCategoria": "TRILOBITA",
-    "descricaoCategoria": "Tri tri",
+    "categoria": "INSETOS",
+    "pastaCategoria": "INSETOS",
+    "descricaoCategoria": "Insetos",
     "items": [
       {
         "id": 1,
-        "fotoCapa": "FOTOS\\TRILOBITA\\1\\acervo (1).jpg",
-        "nomePeca": "Fóssil de trilobita",
-        "descricao": "Artrópode pré-histórico da Era Paleonzóica, conhecido apenas do registro fóssil. O nome trilobita é devido a presença de três lobos que podem ser visualizados (na maior parte dos casos) em sua região dorsal (um central e dois laterais). Animais marinhos bentônicos, viviam, em sua maioria, em zonas pouco profundas, perto da costa. O maior trilobita encontrado até hoje possuía cerca de um metro de comprimento.", 
+        "fotoCapa": "FOTOS\\INSETOS\\1\\acervo (1).jpg",
+        "nomePeca": "Besouro-arlequim",
+        "nomeCientifico": "Acrocinus longimanus",
+        "descricao": "Também chamado de besouro-da-figueira, este inseto noturno possui coloração preta com desenhos coloridos e chama a atenção pelo tamanho das suas patas anteriores, que chegam a ter o dobro do comprimento do seu corpo, sendo maior ainda nos machos. As antenas também são bem longas e com função sensorial. A família deste besouro é uma das mais numerosas do reino animal, com mais de 25 mil espécies descritas no mundo todo. <br>A partir de observações de Acrocinus longimanus, foram percebidas novas possíveis explicações para o comprimento do primeiro par de pernas dos machos. Além da vantagem na seleção sexual, já descrita na literatura, que favorece os machos com pernas e corpos maiores na competição por fêmeas e locais de desova, foram encontrados indícios sugerindo que eles usam as pernas para “medir” o diâmetro dos troncos onde são depositados os ovos, e assim assegurar disponibilidade de alimento e maior segurança para o desenvolvimento das larvas, já que árvores e galhos mais grossos seriam mais resistentes às intempéries (a queda da árvore infestada pode expor larvas à predação). Caso esse achado se confirme, seria exemplo de como uma característica confere vantagens evolutivas diferentes (seleção sexual e seleção natural), levando à sugestão do termo “sintelia” para esse fenômeno. <br>Área de Ocorrência:  Do Sul do México até América do Sul. <br>Hábito Alimentar:  Plantas, pólen, frutas e madeiras. <br>Dimensões:  Entre 7 e 9 cm. <br>Reprodução Animal:  As fêmeas colocam seus ovos nos galhos das árvores e quando as larvas eclodem alimentam-se da madeira. Todos os besouros passam mais tempo na fase larval (cujo objetivo é se alimentar) do que na fase adulta (cujo objetivo é se reproduzir). <br>", 
         "reino": "Animalia",
         "filo": "Arthropoda",
-        "subFilo": "Echinozoa",
-        "classe": "Trilobite",
-        "subClasse": "Trilobitomorpha",
+        "classe": "Insecta",
+        "ordem": "Coleoptera",
+        "familia": "Cerambycidae",
+        "genero": "Acrocinus",
+        "especie": "longimanus",
+        "qtdFotos": 7
+      },
+      {
+        "id": 2,
+        "fotoCapa": "FOTOS\\INSETOS\\2\\acervo (1).jpg",
+        "nomePeca": "Besouro-rinoceronte",
+        "nomeCientifico": "Megasoma anubis",
+        "descricao": "Os besouros do gênero Megasoma fazem jus ao nome – megasoma, traduz-se do grego como “corpos largos”. Trata-se de uma das maiores espécies de besouros do planeta, podendo chegar até 13,5 cm de comprimento. <br>São fortes como os rinocerontes de quem emprestam o nome. Os megasoma podem erguer 850 vezes o próprio peso, o que seria equivalente a um humano carregando 60 toneladas. O besouro-rinoceronte é também o inseto mais pesado do mundo: tem entre 70 e 100 gramas.<br>Os “chifres” (apêndices cefálicos e torácicos) só são encontrados nos machos, que costumam utilizá-los nos combates que travam entre si por privilégios de acasalamento. Ele não morde, não pica e não é venenoso. <br>A espécie [i]Megasoma anubis[/i], uma exclusividade brasileira, está presente no Sudeste e Sul do país e no Estado de Goiás. As larvas deste coleóptero se alimentam de troncos em decomposição, levando até três anos para atingirem o estágio adulto. Quando adultos, alimentam-se da seiva das árvores (que obtém cortando galhos com as tíbias anteriores, cruzadas como tesouras), sucos de frutas e flores. Têm hábitos noturnos e são encontrados durante a estação chuvosa. Ativos principalmente à noite, são atraídos por iluminação artificial.<br>Nos ambientes que habita, o M. anubis é responsável pela ciclagem de nutrientes, através da degradação de troncos. Está se tornando mais raro, o que indica que deve estar perdendo habitat: as florestas nativas. <br>Depende de florestas e sua capacidade de dispersão é baixa se comparado a outros insetos. Estas sensibilidades fazem do Megasoma anubis uma espécie exigente, indicada para ser utilizada como bioindicadora de florestas bem preservadas. <br>", 
+        "reino": "Animalia",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "ordem": "Coleoptera",
+        "subOrdem": "Polyphaga",
+        "superFamilia": "Scarabaeoidea",
+        "familia": "Melolonthidae",
+        "subFamilia": "Dynastinae",
+        "genero": "Megasoma",
+        "especie": "anubis",
+        "qtdFotos": 11
+      },
+      {
+        "id": 3,
+        "fotoCapa": "FOTOS\\INSETOS\\3\\acervo (1).jpg",
+        "nomePeca": "Bicho-pau",
+        "descricao": "A ordem Plasmotodea compreende os bicho-pau, onde Phasma do latim significa espectro/fantasma, apresenta mais de 2,5 mil espécies descritas. As características gerais dos insetos que fazem parte dessa ordem é aparelho bucal mastigador; patas ambulatórias, grande aspecto de graveto, cabeça pequena, antenas bem desenvolvidas.  <br>Possui hábito alimentar fitógafo, alimentando-se de folhas (não é praga agrícola). <br>Seu desenvolvimento é do tipo hemimetábolo (são aqueles que sofrem uma metamorfose completa, uma vez que o indivíduo jovem é completamente diferente do adulto), sendo que a maioria das espécies se reproduzem sexuadamente e possuem um grande dimorfismo sexual (as diferenças físicas entre machos e fêmeas da mesma espécie). <br>Os bichos-pau são algumas das criaturas mais interessantes do planeta. Seu corpo é tão alongado que ele se confunde com galhos de árvores por apresentar forma física semelhante, (camuflagem: homomorfia), isto é, o animal engana predadores se passando por elementos existentes no ambiente a sua volta. Mas sua adaptação vai além dos atributos físicos: quando ameaçado, o inseto imita até o comportamento de galhos e folhas, balançando propositalmente o corpo no ritmo do vento. <br>Mas há outras maneiras de enganar ou evitar predadores. ""Alguns são capazes de expelir substâncias que irritam a mucosa dos predadores, outros podem se jogar no chão se fingindo de mortos, alguns abrem as asas e exibem cores no interior delas para assustar, outros ainda têm espinhos na perna e alguns até são capazes de soltar membros para conseguir fugir e regenerá-los com as trocas de pele futuras. <br>A reprodução também é bastante variada. O dimorfismo sexual está presente nas espécies sendo a fêmea quase sempre maior e mais robusta. Há casos onde fêmeas são fecundadas por vários machos, como também há casos em que apenas um macho acopla na fêmea e passa a vida inteira em cima dela para garantir a exclusividade. <br>", 
+        "reino": "Animalia",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "subClasse": "Pterygota",
+        "ordem": "Phasmatodea",
+        "qtdFotos": 4
+      }
+    ]
+  },
+  {
+    "categoria": "PEIXES",
+    "pastaCategoria": "PEIXES",
+    "descricaoCategoria": "Peixes",
+    "items": [
+      {
+        "id": 1,
+        "fotoCapa": "FOTOS\\PEIXES\\1\\acervo (1).jpg",
+        "nomePeca": "Cação-figuinho",
+        "nomeCientifico": "Rhizoprionodon porosus",
+        "descricao": "Habitat: Uma espécie costeira, que ocorre nas plataformas continentais e insulares, mas também tendo ocorrências em águas mais profundas em alto mar, em até 500 metros de profundidade. Geralmente abundante em águas rasas de fundo arenoso. <br><br>Hábito de vida: Ainda são necessários mais estudos sobre o comportamento desta espécie, mas estudos indicam que fêmeas podem realizar migrações reprodutivas em algumas regiões no Norte do Brasil. Esta espécie se alimenta principalmente de pequenos peixes ósseos, lulas e crustáceos. <br><br>Características gerais: O cação-figuinho pode viver até 10 anos de idade e é uma espécie de porte pequeno, podendo medir até 110 centímetros de comprimento. Possui o dorso e as laterais de coloração marrom-clara ou marrom acinzentado e ventre branco. Pode apresentar pintas brancas nas laterais e também margens mais claras nas nadadeiras. Apresenta um focinho comprido e olhos relativamente grandes. Não é uma espécie considerada perigosa. Sua maior ameaça é a pesca intensiva, incidental ou direcionada, tanto na pesca industrial quanto na artesanal. É capturado por vários apetrechos de pesca. <br><br>Distribuição Mundial: Espécie restrita ao Atlântico Oeste, ocorre ao longo de toda costa desde Honduras até o Uruguai, e também, em grande parte das ilhas caribenhas. <br> ", 
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Chondrichthyes",
+        "ordem": "Carcharhiniformes",
+        "familia": "Carcharhinidae",
+        "genero": "Rhizoprionodon",
+        "especie": "porosus",
+        "qtdFotos": 9
+      },
+      {
+        "id": 2,
+        "fotoCapa": "FOTOS\\PEIXES\\2\\acervo (1).jpg",
+        "nomePeca": "Peixe ósseo - peça anatômica",
+        "descricao": " ",
+        "qtdFotos": 5
+      },
+      {
+        "id": 3,
+        "fotoCapa": "FOTOS\\PEIXES\\3\\acervo (1).jpg",
+        "nomePeca": "Raias ou Arraias",
+        "descricao": " ", 
+        "qtdFotos": 16
+      }
+    ]
+  },
+  {
+    "categoria": "MIRIÁPODES",
+    "pastaCategoria": "MIRIAPODES",
+    "descricaoCategoria": "MIRIÁPODES",
+    "items": [
+      {
+        "id": 1,
+        "fotoCapa": "FOTOS\\MIRIAPODES\\1\\acervo (1).jpg",
+        "nomePeca": "Centopeia",
+        
+        "descricao": "As centopeias são artrópodes classificados na classe Chilopoda, também chamadas de quilópodes, que se diferenciam dos diplópodes (Diplopoda), dos sínfilos (Symphyla) e dos paurópodes (Pauropoda), embora todos estejam no subfilo dos miriápodes. Geralmente, as centopeias têm o corpo dorsoventralmente achatado; possuem um par de patas em cada segmento ou metâmero que compõe o corpo, com exceção do primeiro e dos dois últimos. Isso faz com que tenham desde poucos pares de patas até cerca de 191 pares. Além disso, também têm duas antenas, um par de mandíbulas e dois olhos formados por ocelos. <br>Todas as centopeias são peçonhentas, já que o primeiro par de apêndices é modificado com estruturas que injetam veneno, o qual varia em toxicidade conforme a espécie. Por isso, é importante tomar precauções com crianças e pessoas alérgicas. São predadores que vivem em diversos tipos de habitats, mas requerem um ambiente úmido. <br>As glândulas de veneno são localizadas no primeiro par de pernas modificadas e incorporadas na cabeça destes animais, como um par de maxilípedes, chamados de forcípulas e são uma sinapomorfia de Chilopoda. <br>O veneno é composto por diferentes enzimas, com uma composição diferente dos outros artrópodes. O veneno é composto em grande parte por metaloproteases e possui atividade neurotóxica, cardiotóxica e miotóxica. ", 
+        "reino": "Animalia",
+        "filo": "Arthropoda",
+        "subFilo": "Myriapoda",
+        "ordem": "Scolopendromorpha",
+        "familia": "Scolopendridae",
+        
+        "qtdFotos": 7
+      },
+      {
+        "id": 2,
+        "fotoCapa": "FOTOS\\MIRIAPODES\\2\\acervo (1).jpg",
+        "nomePeca": "Piolho-de-cobra",
+        "descricao": "O piolho de cobra é uma miriápode (\"muitas patas\") da classe dos diplópodes (\"patas duplas\"). O animal também é comumente chamado de gongolo ou embuá. <br>É um animal invertebrado, possui o corpo cilíndrico, alongado e segmentado, cada segmento é composto por dois pares de patas, podendo chegar a possuir 750 patas. Possui um par de olhos e um par de antenas. <br>Essa espécie de miriápodes se diferencia dos quilópodes como a lacraia, ou centopeia, pelo corpo mais arredondado e por não possuírem ferrões ou garras para inoculação de veneno. <br>Vivem em ambientes úmidos, são encontrados embaixo de folhas, restos de madeira ou árvores mortas, alimentando-se de matéria orgânica em decomposição (folhas, madeiras e pequenos animais). Desse modo, são vistos em parques, jardins ou até mesmo em vasos de planta no interior das casas. <br>O piolho de cobra se alimenta de matéria orgânica morta, é um animal muito importante nos processos de decomposição. Alimentam-se de folhas, galhos, troncos e pequenos animais mortos misturados ao solo. <br>Os diplópodes se reproduzem de forma sexuada, seus órgãos sexuais encontram-se em um dos segmentos da parte anterior. <br>Nos machos, o órgão sexual são uma modificação na pata do sétimo segmento e nas fêmeas, uma abertura no terceiro segmento. As fêmeas armazenam os espermatozoides na cópula e fecundam os ovos no momento em que os deposita.", 
+        "reino": "Animalia",
+        "filo": "Arthropoda",
+        "subFilo": "Myriapoda",
+        "classe": "Diplopoda",
         "qtdFotos": 1
       }
     ]
