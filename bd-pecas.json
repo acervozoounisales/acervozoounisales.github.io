@@ -138,7 +138,7 @@
         "nomeCientifico": "Gorgonia sp.",
         "fotoCapa": "FOTOS\\CNIDARIOS\\3\\acervo (1).jpg",
         "qtdFotos": 4,
-        "descricao": "Animal invertebrado pertencente ao filo Cnidário. As anêmonas-do-mar compõe a classe Anthozoa, que pertence ao filo Cnidaria. Apresenta-se fixa a substrato marinho. Na parte superior apresenta a boca rodeada por tentáculos. Seu corpo pode ser dividido em três partes principais: o disco pedal, estrutura adesiva que facilita a fixação do animal no substrato; corpo cilíndrico, que pode variar entre 2,5 centímetros e 1,5 metros de comprimento; e disco oral, cercado por tentáculos em forma de pétala, que são responsáveis pela captura de alimento. Embora as anêmonas-do-mar sejam organismos sésseis frequentemente observados sobre corais e rochas, estas podem se movimentar lentamente através do deslocamento de seu disco pedal ou por contrações corporais, que se assemelham a pequenos pulos. Parentes das águas-vivas, as anêmonas-do-mar compartilham com estes animais a principal característica do filo Cnidaria: a presença de cnidócitos (ou cnidoblastos), células especializadas na injeção de uma neurotoxina paralisante em suas presas. Os cnidócitos são encontrados nos tentáculos das anêmonas, e têm como características o formato de cápsula e uma estrutura chamada cnidocílio, que atua como um gatilho; quando este é estimulado, o nematocisto é projetado para fora da cápsula e se prende ao corpo da presa, liberando uma substância urticante capaz de paralisar ou matá-la. É através desse aparato que as anêmonas consomem suas presas preferidas como pequenos peixes, camarões ou caranguejos. ",
+        "descricao": "As gorgônias são animais invertebrados (Antozoários) que exibem muitas cores. São da família dos corais e apresentam esqueleto que podem ser flexíveis ou não.",
         "reino": "Animalia",
         "subreino": "Eumetazoa",
         "filo": "Cnidaria",
@@ -165,7 +165,7 @@
         "nomeCientifico": "Renilla sp.",
         "fotoCapa": "FOTOS\\CNIDARIOS\\5\\acervo (1).jpg",
         "qtdFotos": 4,
-        "descricao": "Animal invertebrado pertencente ao filo Cnidário. As anêmonas-do-mar compõe a classe Anthozoa, que pertence ao filo Cnidaria. Apresenta-se fixa a substrato marinho. Na parte superior apresenta a boca rodeada por tentáculos. Seu corpo pode ser dividido em três partes principais: o disco pedal, estrutura adesiva que facilita a fixação do animal no substrato; corpo cilíndrico, que pode variar entre 2,5 centímetros e 1,5 metros de comprimento; e disco oral, cercado por tentáculos em forma de pétala, que são responsáveis pela captura de alimento. Embora as anêmonas-do-mar sejam organismos sésseis frequentemente observados sobre corais e rochas, estas podem se movimentar lentamente através do deslocamento de seu disco pedal ou por contrações corporais, que se assemelham a pequenos pulos. Parentes das águas-vivas, as anêmonas-do-mar compartilham com estes animais a principal característica do filo Cnidaria: a presença de cnidócitos (ou cnidoblastos), células especializadas na injeção de uma neurotoxina paralisante em suas presas. Os cnidócitos são encontrados nos tentáculos das anêmonas, e têm como características o formato de cápsula e uma estrutura chamada cnidocílio, que atua como um gatilho; quando este é estimulado, o nematocisto é projetado para fora da cápsula e se prende ao corpo da presa, liberando uma substância urticante capaz de paralisar ou matá-la. É através desse aparato que as anêmonas consomem suas presas preferidas como pequenos peixes, camarões ou caranguejos. ",
+        "descricao": "O zoólogo alemão Peter Simon Pallas deu-lhe o nome científico de ‘Pennatula reniforme’, em 1766. Traduzindo-se, seria uma “pequena-com-penas com-forma-de-rim”. Lamarck, em 1816, passou-as para o gênero ‘Renilla’, que poderia ter traduzido como “Rinzinho, Pequeno-rim”.<br>As renilas vivem nas praias atlânticas e pacíficas dos EUA até a Argentina. Frequentemente são confundidas com plantinhas, pois são sésseis fixadas ao substrato por um pedúnculo. O fato é que são animais.<br>O que se pensaria então ser um único animal, na verdade, é uma colônia de cnidários. Há um pólipo bem maior, com cerca de dois centímetros, e inúmeros outros, bem menores, que ficam nele ancorados. Por isso que se diz que não é UM animal, mas vários interconectados.",
         "reino": "Animalia",
         "filo": "Cnidaria",
         "classe": "Anthozoa",
@@ -616,12 +616,12 @@
    "filo": "Chordata",
    "subfilo": "",
    "classe": "Mammalia",
-   "subClasse": "",
+   
    "Ordem": "Artiodactyla",
-   "subOrdem": "",
+  
    "superFamilia": "",
    "familia": "Suidae",
-   "Subfamília": "",
+   
    "genero": "Sus",
    "especie": "scrofa",
    "subEspecie": "domesticus",
@@ -639,12 +639,12 @@
    "filo": "Chordata",
    "subfilo": "",
    "classe": "Mammalia",
-   "subClasse": "",
+   
    "Ordem": "Rodentia",
-   "subOrdem": "",
+  
    "superFamilia": "",
    "familia": "Muridae",
-   "Subfamília": "",
+   
    "genero": "Mus",
    "especie": "sp",
    "subEspecie": "",
@@ -662,12 +662,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Proboscidea",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Elephantidae",
-        "Subfamília": "",
+        
         "genero": "",
         "especie": "",
         "subEspecie": "",
@@ -685,9 +685,9 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Artiodactyla",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Bovidae",
         "Subfamília": "Bovinae",
@@ -708,12 +708,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Rodentia",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Caviidae",
-        "Subfamília": "",
+        
         "genero": "Hydrochoerus",
         "especie": "",
         "subEspecie": "",
@@ -731,12 +731,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Carnivora",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Felidae",
-        "Subfamília": "",
+        
         "genero": "Felis",
         "especie": "catus",
         "subEspecie": "",
@@ -754,12 +754,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Rodentia",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "",
-        "Subfamília": "",
+        
         "genero": "",
         "especie": "",
         "subEspecie": "",
@@ -777,9 +777,9 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Primates",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Cebidae",
         "Subfamília": "Callitrichinae",
@@ -800,12 +800,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Carnivora",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "Canidae",
-        "Subfamília": "",
+        
         "genero": "Canis",
         "especie": "lupus",
         "subEspecie": "familiaris",
@@ -823,12 +823,12 @@
         "filo": "",
         "subfilo": "",
         "classe": "",
-        "subClasse": "",
-        "Ordem": "",
-        "subOrdem": "",
+        
+        
+       
         "superFamilia": "",
         "familia": "",
-        "Subfamília": "",
+        
         "genero": "",
         "especie": "",
         "subEspecie": "",
@@ -846,12 +846,12 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Chiroptera",
-        "subOrdem": "",
+       
         "superFamilia": "",
         "familia": "",
-        "Subfamília": "",
+        
         "genero": "",
         "especie": "",
         "subEspecie": "",
@@ -869,17 +869,83 @@
         "filo": "Chordata",
         "subfilo": "",
         "classe": "Mammalia",
-        "subClasse": "",
+        
         "Ordem": "Cetacea",
         "subOrdem": "Mysticeti",
         "superFamilia": "",
         "familia": "",
-        "Subfamília": "",
+        
         "genero": "",
         "especie": "",
         "subEspecie": "",
         "qtdFotos": 3
       }
     ]
+  },
+  {
+    "categoria": "MOLUSCOS",
+    "pastaCategoria": "MOLUSCOS",
+    "descricaoCategoria": " ",
+    "items": [
+      {
+        "id": 1,
+        "fotoCapa": "FOTOS\\MAMIFEROS\\1\\acervo (1).jpg",
+        "CATEGORIA": "MOLUSCOS",
+        "nomePeca": "Bivalvia- conchas",
+        "nomeCientifico": "",
+        "descricao": "Esses seres possuem uma concha dividida em duas partes, formando uma pequena caixinha! Dentro dela que ficam seus órgãos. Eles podem viver enterrados na areia, presos às rochas ou até mesmo \"descansando\" no fundo do mar. <br> CURIOSIDADE: As pérolas são produzidas por alguns bivalves! Sempre que elementos estranhos, como grãos de areia ou pedaços de coral, entram no organismo desses animais, começa a deposição de nacar (substância de aparência brilhosa) envolvendo esse possível invasor, formando assim as pérolas!",
+        
+        "Reino": "Animalia",
+        "Filo": "Mollusca",
+        "Classe": "Bivalvia",
+        "qtdFotos": 10
+      },
+      {
+        "id": 2,
+        "fotoCapa": "FOTOS\\MAMIFEROS\\2\\acervo (1).jpg",
+        "CATEGORIA": "MOLUSCOS",
+        "nomePeca": "Cephalopoda - Lula",
+        "nomeCientifico": "Loligo vulgaris",
+        "descricao": "A principal característica dos Cefalópodes é a presença de pés que saem da base da sua cabeça. <br> Podem possuir conchas internas (como as lulas), externas (como os Nautilus) ou a ausência delas (como os polvos). <br> A classe dos Cefalópodes é dividida em octópodes (oito tentáculos), ou decápode (dez tentáculos). A lula é decápode, pois possui dez tentáculos. Sua massa visceral é alongada, e seu corpo é envolto pelo manto, que é uma cavidade muscular que se encontra atrás da cabeça das lulas. É através da cavidade desse manto que a água circula, passando pelas guelras, tornando possível a respiração do molusco. <br>\nNa parte posterior de sua massa visceral, a lula possui duas nadadeiras de formato triangular. Existem aproximadamente trezentas espécies diferentes de lula, espalhadas por todo o mundo, sejam em águas rasas, ou em águas profundas. <br>\nA água que circula pela cavidade respiratória da lula, assim como a tinta, ou sépia, que protege as lulas é expelida por um tubo chamado de funil, localizada abaixo da cabeça das lulas. É o jato de água gerado pela contração do manto e expelido pelo funil que faz com que a lula seja projetada, nadando para trás, por propulsão a jato. <br>\n Entre os cefalópodes, as lulas são as mais rápidas e ágeis nadadoras.",
+        "Reino": "Animalia",
+        "Filo": "Mollusca",
+        "Classe": "Cephalopoda",
+        "Ordem": "Teuthida",
+        "Família": "Loliginidae",
+        "Gênero": "Loligo",
+        "Espécie": "vulgaris",
+        "qtdFotos": 3
+      },
+      {
+        "id": 3,
+        "fotoCapa": "FOTOS\\MAMIFEROS\\3\\acervo (1).jpg",
+        "CATEGORIA": "MOLUSCOS",
+        "nomePeca": "Gastropoda - conchas",
+        "nomeCientifico": "",
+        "descricao": "Os gastrópodes são animais de concha única, ou sem concha. São encontrados tanto em ambientes marinhos, água doce e até mesmo no meio terrestre. Búzios, lesmas do mar e caramujos são exemplos de animais deste grupo. <br> CURIOSIDADE: As conchas da espécies Monetaria moneta começaram a ser usadas como moeda por volta do século XI a.C e, até o século XIX d.C, continuavam sendo empregadas em transações em algumas regiões da África.",
+        "Reino": "Animalia",
+        "Filo": "Mollusca",
+        "Classe": "Gastropoda",
+         "qtdFotos": 33
+      },
+      {
+        "id": 4,
+        "fotoCapa": "FOTOS\\MAMIFEROS\\4\\acervo (1).jpg",
+        "CATEGORIA": "MOLUSCOS",
+        "nomePeca": "Gastrópodes",
+        "nomeCientifico": "",
+        "descricao": "Os gastrópodes são animais de concha única, ou sem concha. São encontrados tanto em ambientes marinhos, água doce e até mesmo no meio terrestre. Búzios, lesmas do mar e caramujos são exemplos de animais deste grupo.",
+        "Reino": "Animalia",
+        "Filo": "Mollusca",
+        "Classe": "Gastropoda",
+        "qtdFotos": 8
+      }
+    ]
+  },
+  {
+    "categoria": "RÉPTEIS",
+    "pastaCategoria": "REPTEIS",
+    "descricaoCategoria": " ",
+    
   }
 ]

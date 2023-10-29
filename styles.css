@@ -1,4 +1,12 @@
 
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+
+
+}
+
 body{
   background: #0F2027;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
@@ -6,6 +14,28 @@ body{
   background-attachment: fixed;
   color: #d5d9dc  ;
   margin-bottom:50px;
+}
+
+.backgroud-gradient{
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
+  background-attachment: fixed;
+}
+
+.btn{
+  color: #d5d9dc !important;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 0px 16px;
+}
+
+.navbar-toggler{
+  border-color: white !important;
+}
+
+.navbar-light .navbar-toggler-icon{
+  filter: invert();
 }
 
 a{
