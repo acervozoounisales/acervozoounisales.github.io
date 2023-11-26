@@ -71,6 +71,7 @@
           
           
           pecaJSON.items.forEach(item => {
+            debugger;
             pecasCategoria += contentCard.replace('[QTDFOTOS]', item.qtdFotos).replace('[CATEGORIA]', item.pastaCategoria).replace('[NOMEPECA]', item.nomePeca).replace('[CAPAPECA]', item.fotoCapa).replace('[IDPECA]', item.id);
           });
 

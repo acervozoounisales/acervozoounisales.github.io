@@ -947,7 +947,7 @@
     "pastaCategoria": "REPTEIS",
     "descricaoCategoria": "Os répteis são vertebrados de sangue frio com escamas e respiração pulmonar. Incluem lagartos, cobras, tartarugas e crocodilos.",
     "items": [
-      [
+      
         {
           "id": 1,
           
@@ -1179,7 +1179,7 @@
           
           "qtdFotos": 12
         }
-       ]
+       
     ]
     
   }
