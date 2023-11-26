@@ -2,7 +2,7 @@
   {
     "categoria": "FÓSSIL DE TRILOBITA",
     "pastaCategoria": "TRILOBITA",
-    "descricaoCategoria": "Tri tri",
+    "descricaoCategoria": "Os trilobitas foram uma classe extinta de artrópodes marinhos que prosperaram durante a era Paleozoica, desaparecendo há mais de 250 milhões de anos. Esses animais apresentavam corpos segmentados, divididos em três lóbulos longitudinais, daí o nome \"trilobita\". Seus exoesqueletos rígidos, compostos por calcita, frequentemente se fossilizavam, tornando os trilobitas valiosos para estudos paleontológicos. <br><br>Os trilobitas exibiam uma ampla variedade de formas e tamanhos, desde pequenos exemplares até espécies que alcançavam tamanhos consideráveis. Eles habitavam principalmente ambientes marinhos, desempenhando papéis importantes na cadeia alimentar da época. A extinção dos trilobitas ocorreu durante o evento de extinção do Permiano-Triássico, que dizimou muitas formas de vida na Terra. Suas contribuições paleontológicas fornecem insights valiosos sobre a evolução da vida durante eras antigas.",
     "items": [
       {
         "id": 1,
@@ -21,7 +21,7 @@
   {
     "categoria": "AVES",
     "pastaCategoria": "AVES",
-    "descricaoCategoria": "Aqui o texto da caregoria aves",
+    "descricaoCategoria": "As aves são vertebrados endotérmicos com penas, bico córneo, ossos pneumáticos e sistema respiratório altamente eficiente. São notáveis por sua capacidade de voar e incluem uma grande diversidade de espécies, desde pássaros pequenos até aves de rapina majestosas.",
     "items": [
       {
         "id": 1,
@@ -107,7 +107,7 @@
   {
     "categoria": "CNIDARIOS",
     "pastaCategoria": "CNIDARIOS",
-    "descricaoCategoria": "Aqui o texto da caregoria CNIDÁRIOS",
+    "descricaoCategoria": "Os cnidários são animais aquáticos que possuem células especializadas chamadas cnidócitos, que contêm estruturas urticantes. Exemplos notáveis são águas-vivas, corais e anêmonas-do-mar.",
     "items": [
       {
         "id": 1,
@@ -180,7 +180,7 @@
   {
     "categoria": "ANFÍBIOS",
     "pastaCategoria": "ANFIBIOS",
-    "descricaoCategoria": "Aqui o texto da caregoria ANFÍBIOS",
+    "descricaoCategoria": "Os anfíbios são uma classe diversa de vertebrados que inclui sapos, rãs e salamandras. Caracterizam-se por um ciclo de vida distintivo, geralmente começando com ovos em ambientes aquáticos, passando por fases larvais aquáticas e transformando-se em formas adultas adaptadas à vida terrestre. Sua pele úmida e permeável permite a troca eficiente de gases, complementando a respiração pulmonar. Além de desempenhar papéis essenciais nos ecossistemas, muitas espécies de anfíbios são bioindicadoras ambientais, embora enfrentem ameaças significativas devido à perda de habitat e outros fatores",
     "items": [
         {
           "id": 1,
@@ -292,7 +292,7 @@
   {
     "categoria": "ARACNÍDEOS",
     "pastaCategoria": "ARACNIDEOS",
-    "descricaoCategoria": "Aqui o texto da caregoria ARACNIDEOS",
+    "descricaoCategoria": "Os aracnídeos constituem uma classe de artrópodes, caracterizados por possuírem quatro pares de pernas e um corpo dividido em cefalotórax e abdômen. Exemplos incluem aranhas, escorpiões, opiliões e ácaros.",
     "items": [
       {
         "id": 1,
@@ -349,7 +349,7 @@
   {
     "categoria": "CRUSTÁCEOS",
     "pastaCategoria": "CRUSTACEOS",
-    "descricaoCategoria": "Aqui o texto da caregoria CRUSTÁCEOS",
+    "descricaoCategoria": "Os crustáceos são artrópodes aquáticos, caracterizados por possuírem um exoesqueleto resistente à base de quitina. Incluem caranguejos, camarões e lagostas",
     "items": [
       {
         "id": 1,
@@ -408,7 +408,7 @@
   {
     "categoria": "EQUINODERMOS",
     "pastaCategoria": "EQUINODERMOS",
-    "descricaoCategoria": "Aqui o texto da caregoria EQUINODERMOS",
+    "descricaoCategoria": "Os equinodermos são animais marinhos com esqueleto interno calcário, geralmente apresentando simetria radial. Estrelas-do-mar, ouriços-do-mar e lírios-do-mar são exemplos de equinodermos.",
     "items": [
       {
         "id": 1,
@@ -482,7 +482,7 @@
   {
     "categoria": "INSETOS",
     "pastaCategoria": "INSETOS",
-    "descricaoCategoria": "Insetos",
+    "descricaoCategoria": "Os insetos são artrópodes com três pares de patas e um corpo dividido em cabeça, tórax e abdômen. Constituem a classe mais diversificada de animais, com milhões de espécies conhecidas, incluindo borboletas, formigas e besouros.",
     "items": [
       {
         "id": 1,
@@ -534,7 +534,7 @@
   {
     "categoria": "PEIXES",
     "pastaCategoria": "PEIXES",
-    "descricaoCategoria": "Peixes",
+    "descricaoCategoria": "Os peixes são animais aquáticos com brânquias para a respiração. Podem ser cartilaginosos, como tubarões e raias, ou ósseos, como a maioria dos peixes.",
     "items": [
       {
         "id": 1,
@@ -570,7 +570,7 @@
   {
     "categoria": "MIRIÁPODES",
     "pastaCategoria": "MIRIAPODES",
-    "descricaoCategoria": "MIRIÁPODES",
+    "descricaoCategoria": "Os miriápodes são artrópodes terrestres com um grande número de pernas. Incluem centopeias e milípedes.",
     "items": [
       {
         "id": 1,
@@ -602,7 +602,7 @@
   {
     "categoria": "MAMÍFEROS",
     "pastaCategoria": "MAMIFEROS",
-    "descricaoCategoria": "Mamiferos",
+    "descricaoCategoria": "Mamíferos são vertebrados endotérmicos que produzem leite para alimentar seus filhotes. Possuem glândulas mamárias e cabelo no corpo. Humanos, baleias, cães e elefantes são exemplos de mamíferos.",
     "items": [
       {
         "id": 1,
@@ -885,7 +885,7 @@
   {
     "categoria": "MOLUSCOS",
     "pastaCategoria": "MOLUSCOS",
-    "descricaoCategoria": " ",
+    "descricaoCategoria": "Os moluscos são animais invertebrados com corpo mole geralmente protegido por uma concha. Caracóis, lulas, ostras e lesmas são exemplos de moluscos.",
     "items": [
       {
         "id": 1,
@@ -945,7 +945,7 @@
   {
     "categoria": "RÉPTEIS",
     "pastaCategoria": "REPTEIS",
-    "descricaoCategoria": " ",
+    "descricaoCategoria": "Os répteis são vertebrados de sangue frio com escamas e respiração pulmonar. Incluem lagartos, cobras, tartarugas e crocodilos.",
     "items": [
       [
         {
