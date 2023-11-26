@@ -363,7 +363,7 @@
         "subclasse": "Eumalacostraca",
         "ordem": "Decapoda",
         "superFamilia": "Paguroidea",
-        "qtdFotos": 8
+        "qtdFotos": 7
       },
       {
         "id": 2,
@@ -375,7 +375,7 @@
         "subfilo": "Crustacea",
         "classe": "Malacostraca",
         "ordem": "Decapoda",
-        "qtdFotos": 17
+        "qtdFotos": 18
       },
       {
         "id": 3,
@@ -562,8 +562,8 @@
         "id": 3,
         "fotoCapa": "FOTOS\\PEIXES\\3\\acervo (1).jpg",
         "nomePeca": "Raias ou Arraias",
-        "descricao": " ", 
-        "qtdFotos": 16
+        "descricao": "Grande parte das arraias são bentônicas e carnívoras. Em todo mundo são descritas mais de 400 espécies com tamanho variando de 0,15 a 7 metros de envergadura4.<br><br>Em geral, a maioria das arraias possuem formato de disco, com a cauda fina e comprida provida ou não de um ou mais ferrões venenosos, que podem causar ferimentos dolorosos.<br><br>As nadadeiras peitorais são bem desenvolvidas e situam-se no mesmo plano da cabeça, projetando-se pelos lados da cabeça. A ondulação das nadadeiras constitui-se na principal forma de locomoção das arraias.<br><br>Na parte inferior encontra-se a boca, pequena e transversa com dentes serrilhados. Essas características permitem que as arraias se alimentem de plâncton, moluscos, crustáceos e outros pequenos animais.<br><br>Na parte superior encontram-se os olhos e os espiráculos, fendas posicionadas atrás de cada olho, conectados à câmara branquial e fundamentais no processo respiratório.<br>Existem espécies ovíparas (reproduzem-se por ovos que as fêmeas expelem) e espécies vivíparas (os ovos são incubados no interior do organismo materno) e nesse caso, os filhotes já nascem perfeitamente desenvolvidos.<br><br>Atingem a maturidade sexual com aproximadamente 2 anos, e geram uma prole de até 10 filhotes (na média cerca de 4) por temporada. O macho apresenta o clásper, um par de órgãos sexuais localizado entre a nadadeira anal e a calda, semelhantes a dois pênis paralelos, um de cada lado da cauda, muito evidente quando se compara os sexos, e visível inclusive em um animal impúbere.<br><br>Normalmente vivem solitárias, junto ao fundo arenoso, ou de pequenas pedras. Podem formar pequenos grupos durante a época da migração ", 
+        "qtdFotos": 7
       }
     ]
   },
@@ -595,7 +595,7 @@
         "filo": "Arthropoda",
         "subfilo": "Myriapoda",
         "classe": "Diplopoda",
-        "qtdFotos": 1
+        "qtdFotos": 7
       }
     ]
   },
@@ -977,7 +977,7 @@
           "fotoCapa": "FOTOS\\REPTEIS\\2\\acervo (1).jpg",
           "nomePeca": "Cobra-d'água",
           "nomeCientifico": "",
-          "descricao": "Existem diferentes espécies de serpentes que são popularmente chamadas de cobra-d’água. Uma delas é a Erythrolamprus miliaris, que é geralmente encontrada em ambientes alagados ou próxima a cursos de água. Por ser não peçonhenta, é considerada inofensiva aos humanos e pode ser encontrada em todos os biomas brasileiras, com exceção dos Pampas. <br>A cor das cobras d'água varia dependendo da região em que vivem, mas geralmente varia do preto ao amarelo, ou do preto aos tons de verde.<br>Por exemplo, aqueles na Mata Atlântica normalmente têm cores pretas e amarelas muito brilhantes e contrastantes.<br>Também é encontrado na Argentina, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Suriname, Venezuela, Paraguai e Uruguai.<br>Erythrorumpurus milialis é principalmente diurno e muito ativo, alimentando-se principalmente de anfíbios e peixes.<br>Ela é uma ótima nadadora, e um fato interessante é que a fêmea é maior que o macho, atingindo mais de 90 cm de comprimento corporal, mas geralmente é mais modesta, próxima dos 60 cm.<br>Esta espécie é ovípara. Ou seja, o desenvolvimento do embrião ocorre dentro do ovo. Durante a época de reprodução, esta cobra d'água põe em média 10 ovos.<br>",
+          "descricao": "Existem diferentes espécies de serpentes que são popularmente chamadas de cobra-d'água. Uma delas é a Erythrolamprus miliaris, que é geralmente encontrada em ambientes alagados ou próxima a cursos de água. Por ser não peçonhenta, é considerada inofensiva aos humanos e pode ser encontrada em todos os biomas brasileiras, com exceção dos Pampas. <br>A cor das cobras d'água varia dependendo da região em que vivem, mas geralmente varia do preto ao amarelo, ou do preto aos tons de verde.<br>Por exemplo, aqueles na Mata Atlântica normalmente têm cores pretas e amarelas muito brilhantes e contrastantes.<br>Também é encontrado na Argentina, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Suriname, Venezuela, Paraguai e Uruguai.<br>Erythrorumpurus milialis é principalmente diurno e muito ativo, alimentando-se principalmente de anfíbios e peixes.<br>Ela é uma ótima nadadora, e um fato interessante é que a fêmea é maior que o macho, atingindo mais de 90 cm de comprimento corporal, mas geralmente é mais modesta, próxima dos 60 cm.<br>Esta espécie é ovípara. Ou seja, o desenvolvimento do embrião ocorre dentro do ovo. Durante a época de reprodução, esta cobra d'água põe em média 10 ovos.<br>",
           
           "reino": "Animalia",
           
@@ -1191,5 +1191,28 @@
        
     ]
     
+  },
+  {
+    "categoria": "NEMATÓDEOS",
+    "pastaCategoria": "NEMATODEOS",
+    "descricaoCategoria": "Os nematódeos, ou vermes cilíndricos, são animais de corpo alongado com uma cavidade digestiva completa. Podem ser parasitas ou de vida livre no solo.",
+    "items": [
+      {
+        "id": 1,
+        "fotoCapa": "FOTOS\\NEMATODEOS\\1\\acervo (1).jpg",
+        "nomePeca": "Lombrigas",
+        "nomeCientifico": "Ascaris spp.",
+        "descricao": "O agente etiológico da doença “ascaridíase” é o helminto Ascaris lumbricoides. Morfologicamente este parasita possui uma cor clara e é um cilindro fino que pode chegar a ter até 40 cm de comprimento! <br>O verme macho é menor que a fêmea. A fêmea pode medir até 40cm, e o macho até 30cm de comprimento.  <br>A taxa de infestação deste parasita é muito alta, pois a fêmea consegue produzir 200000 por dia. Além de se localizar na traqueia essas lombrigas também podem alcançar as vias aéreas como o nariz e boca. Em crianças este tipo de parasita pode ser um grande problema, pois pode causar até asfixia. <br>O ciclo da ascaridíase começa com a ingestão de alimentos, água ou até mesmo o contato via oral de objetos contaminados com ovos férteis.<br>A transmissão da ascaridíase se dá pelo contato de fezes contaminadas com ovos férteis do A. lumbricoides. Seja por alimento, água ou via fecal-oral, é possível se infectar com esta parasitose.<br> As espécies que atacam o homem são a Ascaris lumbricoides e a Ascaris suum, esta última também encontrada em porcos.", 
+        
+        "reino": "Animalia",
+        "filo": "Nematoda",
+        "classe": "Secernentea",
+        
+        "ordem": "Ascaridida",
+        "familia": "Ascarididae",
+        "genero": "Ascaris",
+        "qtdFotos": 3
+      }
+    ]
   }
 ]

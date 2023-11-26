@@ -100,7 +100,7 @@ function carregaJSON(){
     }
 
     if(pecaJSON.subFilo){
-      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Sub-filo").replace('[VALORTAXO]', pecaJSON.subFilo)
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Subfilo").replace('[VALORTAXO]', pecaJSON.subFilo)
     }
 
     if(pecaJSON.classe){
@@ -108,7 +108,7 @@ function carregaJSON(){
     }
 
     if(pecaJSON.subClasse){
-      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Sub-classe").replace('[VALORTAXO]', pecaJSON.subClasse)
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Subclasse").replace('[VALORTAXO]', pecaJSON.subClasse)
     }
 
     if(pecaJSON.ordem){
@@ -120,7 +120,7 @@ function carregaJSON(){
     }
 
     if(pecaJSON.subFamilia){
-      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Sub-família").replace('[VALORTAXO]', pecaJSON.subFamilia)
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Subfamília").replace('[VALORTAXO]', pecaJSON.subFamilia)
     }
 
     if(pecaJSON.genero){
@@ -131,10 +131,22 @@ function carregaJSON(){
       areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Espécie").replace('[VALORTAXO]', pecaJSON.especie)
     }
 
-  
+    if(pecaJSON.superOrdem){
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Superordem").replace('[VALORTAXO]', pecaJSON.superOrdem)
+    }
+    
+    if(pecaJSON.subOrdem){
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Subordem").replace('[VALORTAXO]', pecaJSON.subOrdem)
+    }
+
+    if(pecaJSON.superFamilia){
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Superfamília").replace('[VALORTAXO]', pecaJSON.superFamilia)
+    }
 
 
-
+    if(pecaJSON.subEspecie){
+      areaInfo.innerHTML +=  templateTaxo.replace('[NOMETAXO]', "Subespécie").replace('[VALORTAXO]', pecaJSON.subEspecie)
+    }
 
   })
   .catch(error => { console.error('Erro ao carregar o arquivo JSON:', error) });
